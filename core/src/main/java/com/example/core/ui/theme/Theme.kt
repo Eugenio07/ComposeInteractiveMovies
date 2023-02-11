@@ -1,4 +1,4 @@
-package com.example.composeinteractivemovies.ui.theme
+package com.example.core.ui.theme
 
 import android.app.Activity
 import android.os.Build
